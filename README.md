@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
-<h3 align="center">A developer from the USA</h3>
+<h3 align="center">Fullstack trained. Frontend focused.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepykanguru22&label=Profile%20views&color=0e75b6&style=flat" alt="sleepykanguru22" /> </p>
 
