@@ -1,5 +1,5 @@
 
-[Link to Spline Design](https://my.spline.design/miniroomartcopy-c7eda7aa614c388d366065417a8ab407/)
+
 
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
 <h3 align="center">Fullstack trained. Frontend focused.</h3>
