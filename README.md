@@ -13,10 +13,7 @@
 <a href="https://medium.com/@jasmincodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasmincodes" height="30" width="40" /></a>
 </p>
 
-
-<a href="https://www.youtube.com/embed/hJMtKWiwThg?si=6sjdxc-g2WIW1_tk" target="_blank">
-<img src="`https://img.youtube.com/vi/`hJMtKWiwThg/file.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+[![Watch the video](https://img.youtube.com/vi/hJMtKWiwThg/default.jpg)](https://youtu.be/hJMtKWiwThg)
 
 
 
